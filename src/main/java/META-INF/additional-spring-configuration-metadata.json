@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "mail.ssl",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.ssl'"
+  },
+  {
+    "name": "mail.tls",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.tls'"
+  }
+]}
